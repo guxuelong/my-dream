@@ -1,0 +1,24 @@
+{
+  "personSetting": {
+    "certificatedLevel": 3,
+    "portraitUrl": "https://fdfs.hdfax.com/group1/M00/1D/BD/CgEJOFjrBlCAU__rAAI6IHD6Sec869.jpg",
+    "phoneNumber": "18017764329",
+    "realName": "廖文岳",
+    "bankCardNumber": "***************2992",
+    "bankCardName": "平安银行",
+    "hasPaymentPwd": 1,
+    "isRealName": 1,
+    "isBindBankCard": 1,
+    "riskScore": 55,
+    "riskLevel": "R4",
+    "riskLevelDesc": "进取型",
+    "memberNo": "8a8181bd536aeee10153744e4bf301af",
+    "isRookie": 0
+  },
+  "resultCode": "1000",
+  "resultMsg": "调用成功",
+  "traceNo": "mtp0a010178415616189152",
+  "displayType": "showToast",
+  "success": true,
+  "useCustMsg": false
+}

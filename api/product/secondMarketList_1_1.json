@@ -1,0 +1,85 @@
+{
+  "hasNextPage": true,
+  "pageNum": 1,
+  "pageSize": 10,
+  "pages": 2,
+  "total": 18,
+  "productList": [
+    {
+      "productId": 90052411,
+      "productName": "恒耀稳享2053期13号",
+      "expectedAnnualYieldRate": "5.0000",
+      "investAmount": "51799.80",
+      "productLimit": 73
+    },
+    {
+      "productId": 90052394,
+      "productName": "冰泉金服利21期3号",
+      "expectedAnnualYieldRate": "4.9500",
+      "investAmount": "21505.61",
+      "productLimit": 74
+    },
+    {
+      "productId": 90052339,
+      "productName": "恒耀安益1702期12号",
+      "expectedAnnualYieldRate": "4.9300",
+      "investAmount": "21408.96",
+      "productLimit": 60
+    },
+    {
+      "productId": 90052402,
+      "productName": "恒耀安益1553期20号",
+      "expectedAnnualYieldRate": "4.9100",
+      "investAmount": "53870.12",
+      "productLimit": 46
+    },
+    {
+      "productId": 90052348,
+      "productName": "恒耀安益1603期2号",
+      "expectedAnnualYieldRate": "4.9000",
+      "investAmount": "53085.88",
+      "productLimit": 46
+    },
+    {
+      "productId": 90051965,
+      "productName": "恒耀稳享2053期17号",
+      "expectedAnnualYieldRate": "4.8700",
+      "investAmount": "51080.55",
+      "productLimit": 73
+    },
+    {
+      "productId": 90052253,
+      "productName": "冰泉金服利15期6号",
+      "expectedAnnualYieldRate": "4.8400",
+      "investAmount": "2720.66",
+      "productLimit": 60
+    },
+    {
+      "productId": 90052121,
+      "productName": "恒耀安益1552期10号",
+      "expectedAnnualYieldRate": "4.7000",
+      "investAmount": "10757.17",
+      "productLimit": 46
+    },
+    {
+      "productId": 90051093,
+      "productName": "恒耀安益1702期7号",
+      "expectedAnnualYieldRate": "4.6600",
+      "investAmount": "21418.39",
+      "productLimit": 60
+    },
+    {
+      "productId": 90051909,
+      "productName": "0820球迷夺金11期1号",
+      "expectedAnnualYieldRate": "4.6100",
+      "investAmount": "1056.62",
+      "productLimit": 74
+    }
+  ],
+  "resultCode": "1000",
+  "resultMsg": "调用成功",
+  "traceNo": "mtp0a01004c415658317684",
+  "displayType": "showToast",
+  "success": true,
+  "useCustMsg": false
+}

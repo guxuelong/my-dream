@@ -1,0 +1,61 @@
+@import "../utils/index.css";
+.page-index {
+  .header {
+    height: 80px;
+    background: #FFF;
+    padding: 20px 10px;
+    box-shadow: 0px 1px 9px 1px #cfcfcf;
+    border-top: 2px solid #fa4b2a;
+    .sort {
+      border-top: 2px solid #666;
+      border-bottom: 2px solid #666;
+      size: 20px 16px;
+      position: relative;
+      &:before {
+        content: ' ';
+        position: absolute;
+        top: 3px;
+        size: 20px 2px;
+        border-bottom: 2px solid #666;
+      }
+    }
+  }
+  .header-bottom {
+		height: 120px;
+    visibility: visible;
+    animation-duration: 0.8s;
+    animation-delay: 0.2s;
+    animation-name: fadeInDown;
+		.title {
+      font-size: 45px;
+			text-align: center;
+      padding-top: 15px;
+		}
+    .description {
+      height: 25px;
+      font-size: 14px;
+      text-align: center;
+      color: #fa4b2a;
+      label {
+        display: inline-block;
+        width: 75px;
+        height: 2px;
+        margin-top: -26px;
+        top: 37px;
+        left: 366px;
+        background: #303030;
+      }
+    }
+  }
+  .banner {
+  	width: 100%;
+    min-height: 200px;
+  	background: url('../../assets/bg.jpg') no-repeat center center;
+  	background-size: cover;
+  }
+  @media screen and (min-width: 414px) {
+    .banner {
+        min-height: 600px;
+    }
+  }
+}

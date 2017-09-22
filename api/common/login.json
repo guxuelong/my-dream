@@ -1,0 +1,11 @@
+{
+  "isBindWeixin": false,
+  "returnURL": "https://qmobile.hdfax.com/assets/html/assets/main.html#!/myAssets",
+  "needRealName": false,
+  "resultCode": "040601",
+  "resultMsg": "登录成功",
+  "traceNo": "mtpac10393b41515310794",
+  "displayType": "showToast",
+  "success": true,
+  "useCustMsg": false
+}

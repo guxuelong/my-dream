@@ -1,0 +1,32 @@
+{
+  "userInfo": {
+    "phoneNumber": "15921589007",
+    "realName": "顾学龙",
+    "certificatedLevel": 3,
+    "hasBankCard": 1,
+    "hasPassword": 1,
+    "hasPaymentPwd": 1,
+    "idCardNo": "3206******2039",
+    "inviteCode": "a31827b400fe4f0db99a78488a76536f",
+    "memberNo": "99924dcd463a48a29bc84f1e730fdef3",
+    "memberType": 0,
+    "passwordStrength": 0,
+    "payPasswordStrength": 0,
+    "userNo": "5f16bfe50dd74b22900fa39872087ef4",
+    "verifiedIdType": "0",
+    "avatarURL": "",
+    "isRealName": 1,
+    "isBindBankCard": 1,
+    "noMaskRealName": "顾学龙",
+    "respectfulName": "顾先生",
+    "brokerType": 0
+  },
+  "mobileWebsite": "https://mobile.hdfax.com/",
+  "htAppAPI": "https://ht-h5.htmimi.com/",
+  "resultCode": "1000",
+  "resultMsg": "调用成功",
+  "displayType": "showToast",
+  "success": true,
+  "needLoginURL": "https://mobile.hdfax.com/common/login",
+  "useCustMsg": false
+}

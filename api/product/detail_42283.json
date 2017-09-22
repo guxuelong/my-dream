@@ -1,0 +1,129 @@
+{
+  "fixedProductDetail": {
+    "productId": 42283,
+    "productNo": "3b63afa1e63c4a21a6c71efcbb957568",
+    "productName": "BZ-第二轮恒大大赢家（定融）2号",
+    "productCode": "042283",
+    "productLimit": 12,
+    "investmentUnit": 0,
+    "investmentUnitDesc": "金额",
+    "minBuyAmt": "100.00",
+    "maxBuyAmt": "-1.00",
+    "perIncAmt": "100.00",
+    "minSellAmt": "0.00",
+    "maxSellAmt": "-1.00",
+    "profitMode": 0,
+    "profitModeDesc": "一次性支付本金及收益",
+    "valueDate": "2017-08-16",
+    "dueDate": "2017-08-28",
+    "totalAmount": "10000000.00",
+    "sellableAmount": "9988900.00",
+    "expectedAnnualYieldRate": "6.0000",
+    "collectPeriod": 7,
+    "productDesc": "产品说明",
+    "multiple": "17.1429",
+    "accountingDate": "2017-08-29",
+    "soldAmount": "11100.00",
+    "frozenAmount": "0.00",
+    "sellStatus": 0,
+    "transBeginTime": 1502121602000,
+    "transEndTime": 1502726400000,
+    "perUdbLimitAmt": "-1.00",
+    "displayRate": "5% + 1%",
+    "perYearDate": 365,
+    "productRank": 1,
+    "returnTo": "至账户余额",
+    "transStructureType": 3,
+    "forceRiskReview": false,
+    "isExchangeMember": 1,
+    "exchangeId": 1000024325,
+    "specialExplanation": "本产品系由发行人交易方名称在交易所名称登记备案发行的定向融资产品，由恒大金服作为承销商。",
+    "directedFinancingUnderwriter": "1",
+    "riskReview": false,
+    "exchangeName": "交易所名称",
+    "closeType": 1,
+    "exchangePopupHint": "投资本产品前请开通交易所名称会员",
+    "isNeedExchangePopup": 0,
+    "agreementURLInfoList": [
+      {
+        "title": "产品说明",
+        "attachFileType": "rulesFile"
+      },
+      {
+        "title": "风险揭示",
+        "attachFileType": "riskFile"
+      },
+      {
+        "title": "负责说明",
+        "attachFileType": "explainFile"
+      }
+    ]
+  },
+  "agreementURLInfoList": [
+    {
+      "title": "产品说明",
+      "attachFileType": "rulesFile"
+    },
+    {
+      "title": "认购协议",
+      "attachFileType": "targetFile"
+    },
+    {
+      "title": "风险揭示",
+      "attachFileType": "riskFile"
+    }
+  ],
+  "actualRate": "0.0019726027",
+  "actualAutoRate": "0",
+  "currentServerTime": 1502177510731,
+  "agreementTextInfoList": [
+    {
+      "text": "您已阅读并认可",
+      "isHighLight": 0,
+      "hasLink": 0
+    },
+    {
+      "text": "产品说明",
+      "isHighLight": 0,
+      "hasLink": 1,
+      "attachFileType": "rulesFile"
+    },
+    {
+      "text": "、",
+      "isHighLight": 0,
+      "hasLink": 0
+    },
+    {
+      "text": "认购协议",
+      "isHighLight": 0,
+      "hasLink": 1,
+      "attachFileType": "targetFile"
+    },
+    {
+      "text": "、",
+      "isHighLight": 0,
+      "hasLink": 0
+    },
+    {
+      "text": "风险揭示",
+      "isHighLight": 0,
+      "hasLink": 1,
+      "attachFileType": "riskFile"
+    },
+    {
+      "text": "。投资有风险，理财需谨慎",
+      "isHighLight": 0,
+      "hasLink": 0
+    }
+  ],
+  "exchangeAccountInfo": {
+    "isNeedOpenAccount": 0,
+    "exchangeProjectCode": "PH001"
+  },
+  "resultCode": "1000",
+  "resultMsg": "调用成功",
+  "traceNo": "mtpac10393a4172715022",
+  "displayType": "showToast",
+  "success": true,
+  "useCustMsg": false
+}

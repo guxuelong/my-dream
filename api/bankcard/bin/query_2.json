@@ -1,0 +1,8 @@
+{
+  "resultCode": "00800020005",
+  "resultMsg": "无效银行卡号",
+  "traceNo": "mtp0a01004c415803217769",
+  "displayType": "showToast",
+  "success": false,
+  "useCustMsg": false
+}

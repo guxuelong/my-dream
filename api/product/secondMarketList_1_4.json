@@ -1,0 +1,14 @@
+{
+  "hasNextPage": false,
+  "pageNum": 1,
+  "pageSize": 10,
+  "pages": 0,
+  "total": 0,
+  "productList": [],
+  "resultCode": "1000",
+  "resultMsg": "调用成功",
+  "traceNo": "mtp0a010178415658322579",
+  "displayType": "showToast",
+  "success": true,
+  "useCustMsg": false
+}

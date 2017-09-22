@@ -1,0 +1,12 @@
+{
+  "isRegistered": 1,
+  "hasLoginPwd": 0,
+  "isRealName": 0,
+  "serviceProtocolURL": "https://iqcms.hdfax.com/eif-cms/document/1481871458386.html",
+  "resultCode": "1000",
+  "resultMsg": "调用成功",
+  "traceNo": "mtpac10393a4151363760",
+  "displayType": "showToast",
+  "success": true,
+  "useCustMsg": false
+}

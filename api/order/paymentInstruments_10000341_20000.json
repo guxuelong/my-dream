@@ -1,0 +1,88 @@
+{
+  "bestCouponCode": "11b96666ee1c493e93bcb307fa8232e7",
+  "bestCouponValue": "-6.00元",
+  "userCouponList": [
+    {
+      "couponName": "BZ-定期现金券即将可用",
+      "couponCode": "11b96666ee1c493e93bcb307fa8232e7",
+      "couponType": 2,
+      "couponTypeDesc": "现金券",
+      "ruleDesc": "满100可用\n最高投资上限10万\n使用于定期类产品",
+      "expireTime": "2019-05-12",
+      "raiseInterestRates": "0.00",
+      "status": 1,
+      "statusDesc": "可使用",
+      "satisfiedAmount": "100.00",
+      "discountAmount": "6",
+      "useMaxAmount": "100000.00",
+      "showFlag": false
+    },
+    {
+      "couponName": "BZ-定期现金券即将可用",
+      "couponCode": "a70b594c7372495cb86199d87f057816",
+      "couponType": 2,
+      "couponTypeDesc": "现金券",
+      "ruleDesc": "满100可用\n最高投资上限10万\n使用于定期类产品",
+      "expireTime": "2019-05-12",
+      "raiseInterestRates": "0.00",
+      "status": 1,
+      "statusDesc": "可使用",
+      "satisfiedAmount": "100.00",
+      "discountAmount": "6",
+      "useMaxAmount": "100000.00",
+      "showFlag": false
+    }
+  ],
+  "paymentInstrumentList": [
+    {
+      "paymentInstrumentType": 2,
+      "paymentInstrumentNo": "QAI00000000000017475",
+      "paymentTitle": "农业银行(6666)",
+      "cardNo": "622848*********6666",
+      "cardType": 1,
+      "bankName": "农业银行",
+      "bankNo": "01030000",
+      "bankLogoUrl": "https://iqcms.hdfax.com/eif-cms/app/bank/newLogo/ABC76x76.png",
+      "singleLimit": "单笔限额500万 单日限额1000万",
+      "singleLimitAmount": "5000000.00",
+      "mobilePhone": "180****4328",
+      "isDefaultPayment": 1,
+      "isAvailable": 1
+    }
+  ],
+  "availablePaymentList": [
+    {
+      "paymentInstrumentType": 2,
+      "paymentInstrumentNo": "QAI00000000000017475",
+      "paymentTitle": "农业银行(6666)",
+      "cardNo": "622848*********6666",
+      "cardType": 1,
+      "bankName": "农业银行",
+      "bankNo": "01030000",
+      "bankLogoUrl": "https://iqcms.hdfax.com/eif-cms/app/bank/newLogo/ABC76x76.png",
+      "singleLimit": "单笔限额500万 单日限额1000万",
+      "singleLimitAmount": "5000000.00",
+      "mobilePhone": "180****4328",
+      "isDefaultPayment": 1,
+      "isAvailable": 1
+    }
+  ],
+  "notAvailablePaymentList": [],
+  "needAddCardFlag": true,
+  "balancePaymentInstrument": {
+    "availableBalance": "0.00",
+    "paymentInstrumentStatus": "2",
+    "paymentInstrumentType": "6",
+    "paymentTitle": "余额支付",
+    "isDefaultPayment": 0,
+    "isAvailable": 0
+  },
+  "payAmount": "9994.00",
+  "htAppAPI": "https://ht-h5-test.htmimi.com/",
+  "resultCode": "1000",
+  "resultMsg": "调用成功",
+  "traceNo": "mtpac10393b416400396",
+  "displayType": "showToast",
+  "success": true,
+  "useCustMsg": false
+}

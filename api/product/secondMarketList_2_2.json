@@ -1,0 +1,85 @@
+{
+  "hasNextPage": true,
+  "pageNum": 2,
+  "pageSize": 10,
+  "pages": 11,
+  "total": 102,
+  "productList": [
+    {
+      "productId": 90052376,
+      "productName": "恒耀安益2052期1号",
+      "expectedAnnualYieldRate": "5.9600",
+      "investAmount": "18825.07",
+      "productLimit": 137
+    },
+    {
+      "productId": 90052255,
+      "productName": "恒耀安益2345期4号",
+      "expectedAnnualYieldRate": "5.9600",
+      "investAmount": "10335.23",
+      "productLimit": 165
+    },
+    {
+      "productId": 90051900,
+      "productName": "恒耀安益2302期2号",
+      "expectedAnnualYieldRate": "5.9500",
+      "investAmount": "31092.06",
+      "productLimit": 158
+    },
+    {
+      "productId": 90052192,
+      "productName": "恒耀安益2345期6号",
+      "expectedAnnualYieldRate": "5.9500",
+      "investAmount": "10335.69",
+      "productLimit": 165
+    },
+    {
+      "productId": 90052189,
+      "productName": "恒耀安益2345期6号",
+      "expectedAnnualYieldRate": "5.9100",
+      "investAmount": "10337.51",
+      "productLimit": 165
+    },
+    {
+      "productId": 90051128,
+      "productName": "恒耀稳享2213期5号",
+      "expectedAnnualYieldRate": "5.9000",
+      "investAmount": "50454.18",
+      "productLimit": 130
+    },
+    {
+      "productId": 90052168,
+      "productName": "恒耀稳享2213期15号",
+      "expectedAnnualYieldRate": "5.9000",
+      "investAmount": "50454.18",
+      "productLimit": 130
+    },
+    {
+      "productId": 90051662,
+      "productName": "恒耀安益2052期4号",
+      "expectedAnnualYieldRate": "5.9000",
+      "investAmount": "30544.74",
+      "productLimit": 137
+    },
+    {
+      "productId": 90052413,
+      "productName": "恒耀稳享2143期8号",
+      "expectedAnnualYieldRate": "5.9000",
+      "investAmount": "50355.82",
+      "productLimit": 137
+    },
+    {
+      "productId": 90051503,
+      "productName": "恒耀稳享2203期7号",
+      "expectedAnnualYieldRate": "5.9000",
+      "investAmount": "111240.85",
+      "productLimit": 144
+    }
+  ],
+  "resultCode": "1000",
+  "resultMsg": "调用成功",
+  "traceNo": "mtp0a010133415658331523",
+  "displayType": "showToast",
+  "success": true,
+  "useCustMsg": false
+}

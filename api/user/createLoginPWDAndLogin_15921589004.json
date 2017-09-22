@@ -1,0 +1,29 @@
+{
+  "loginUserInfo": {
+    "phoneNumber": "15921589003",
+    "certificatedLevel": 1,
+    "hasBankCard": 0,
+    "hasPassword": 1,
+    "hasPaymentPwd": 0,
+    "idCardNo": "",
+    "inviteCode": "0550d4b6baf3433b82812ae03bfef2f7",
+    "memberNo": "b4b53d4c053d49b1a2fbcba41728cc4d",
+    "memberType": 0,
+    "passwordStrength": 0,
+    "payPasswordStrength": 0,
+    "userNo": "401b910ac31f45319cbd74e83f05d897",
+    "avatarURL": "",
+    "isRealName": 0,
+    "isBindBankCard": 0,
+    "brokerType": 0
+  },
+  "isBindWeixin": false,
+  "returnURL": "https://qmobile.hdfax.com/assets/html/assets/main.html#!/myAssets",
+  "needRealName": false,
+  "resultCode": "1000",
+  "resultMsg": "设置密码成功",
+  "traceNo": "mtpac10393a4151541362",
+  "displayType": "showToast",
+  "success": true,
+  "useCustMsg": false
+}

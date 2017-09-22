@@ -1,0 +1,30 @@
+{
+  "newTransPasswordToken":"17752680071035905115",
+  "newBindCardToken":"11892538161728454851",
+  "userInfo":{
+    "phoneNumber":"15838251413",
+    "realName":"王素杰",
+    "certificatedLevel":2,
+    "hasBankCard":0,
+    "hasPassword":1,
+    "hasPaymentPwd":0,
+    "idCardNo":"4127*************9",
+    "inviteCode":"019551fe5c7845c9bb4a107ceb305b77",
+    "memberNo":"ab508ac3696243eabaf2b79913d5fdd7",
+    "memberType":0,
+    "passwordStrength":0,
+    "payPasswordStrength":0,
+    "userNo":"0df74b8c89354af6b9627a9a7b5ea092",
+    "verifiedIdType":"0",
+    "isRealName":1,
+    "isBindBankCard":0,
+    "noMaskRealName":"王素杰",
+    "brokerType":0
+  },
+  "resultCode":"1000",
+  "resultMsg":"调用成功",
+  "traceNo":"mtpac10393a415635581",
+  "displayType":"showToast",
+  "success":true,
+  "useCustMsg":false
+}

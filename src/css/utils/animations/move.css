@@ -1,0 +1,102 @@
+
+/* moveUp */
+@keyframes moveUp-enter {
+  from {
+    transform: translate3d(0, 100%, 0);
+  }
+  to {
+    transform: translate3d(0, 0, 0);
+  }
+}
+.moveUp-enter-active {
+  animation: moveUp-enter 1s ease-in;
+}
+
+@keyframes moveUp-leave {
+  from {
+    transform: translate3d(0, 0, 0);
+  }
+  to {
+    transform: translate3d(0, 100%, 0);
+  }
+}
+.moveUp-leave-active {
+  animation: moveUp-leave 1s ease-out;
+}
+
+/* moveDown */
+@keyframes moveDown-enter {
+  from {
+    opacity: 0;
+    transform: translate3d(0, -30%, 0);
+  }
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+.moveDown-enter-active {
+  animation: moveDown-enter .5s ease-in;
+}
+
+@keyframes moveDown-leave {
+  from {
+    transform: translate3d(0, 0, 0);
+  }
+  to {
+    transform: translate3d(0, -100%, 0);
+  }
+}
+.moveDown-leave {
+  animation: moveDown-leave 1s ease-out;
+}
+
+/* moveLeft */
+@keyframes moveLeft-enter {
+  from {
+    transform: translate3d(100%, 0, 0);
+  }
+  to {
+    transform: translate3d(0, 0, 0);
+  }
+}
+.moveLeft-enter {
+  animation: moveLeft-enter 1s ease-in;
+}
+
+@keyframes moveLeft-leave {
+  from {
+    transform: translate3d(0, 0, 0);
+  }
+  to {
+    transform: translate3d(100%, 0, 0);
+  }
+}
+.moveLeft-leave {
+  animation: moveLeft-leave 1s ease-out;
+}
+
+/* moveRight */
+@keyframes moveRight-enter {
+  from {
+    transform: translate3d(-100%, 0, 0);
+  }
+  to {
+    transform: translate3d(0, 0, 0);
+  }
+}
+.moveRight-enter {
+  animation: moveRight-enter 1s ease-in;
+}
+
+@keyframes moveRight-leave {
+  from {
+    transform: translate3d(0, 0, 0);
+  }
+  to {
+    transform: translate3d(-100%, 0, 0);
+  }
+}
+.moveRight-leave {
+  animation: moveRight-leave 1s ease-out;
+}

@@ -1,0 +1,126 @@
+{
+  "fixedProductDetail": {
+    "productId": 42325,
+    "productNo": "9bdccc65d4da452b8b82686ea0c25518",
+    "productName": "期限90天，起投金额10001号",
+    "productCode": "042325",
+    "productLimit": 90,
+    "investmentUnit": 0,
+    "investmentUnitDesc": "金额",
+    "minBuyAmt": "100.00",
+    "maxBuyAmt": "-1.00",
+    "perIncAmt": "100.00",
+    "minSellAmt": "0.00",
+    "maxSellAmt": "-1.00",
+    "profitMode": 0,
+    "profitModeDesc": "一次性支付本金及收益",
+    "valueDate": "2017-08-16",
+    "dueDate": "2017-11-14",
+    "totalAmount": "10000.00",
+    "sellableAmount": "9200.00",
+    "expectedAnnualYieldRate": "6.0000",
+    "collectPeriod": 7,
+    "productDesc": "123",
+    "multiple": "17.1429",
+    "accountingDate": "2017-11-17",
+    "soldAmount": "300.00",
+    "frozenAmount": "500.00",
+    "sellStatus": 0,
+    "transBeginTime": 1502192034000,
+    "transEndTime": 1502726400000,
+    "perUdbLimitAmt": "-1.00",
+    "displayRate": "5% + 1%",
+    "perYearDate": 365,
+    "productRank": 1,
+    "returnTo": "至账户余额",
+    "transStructureType": 0,
+    "forceRiskReview": false,
+    "isExchangeMember": 0,
+    "exchangeId": -1,
+    "specialExplanation": "",
+    "directedFinancingUnderwriter": "",
+    "riskReview": false,
+    "closeType": 1,
+    "isNeedExchangePopup": 0,
+    "agreementURLInfoList": [
+      {
+        "title": "3",
+        "attachFileType": "rulesFile"
+      },
+      {
+        "title": "2",
+        "attachFileType": "riskFile"
+      },
+      {
+        "title": "1",
+        "attachFileType": "explainFile"
+      }
+    ]
+  },
+  "agreementURLInfoList": [
+    {
+      "title": "3",
+      "attachFileType": "rulesFile"
+    },
+    {
+      "title": "4",
+      "attachFileType": "targetFile"
+    },
+    {
+      "title": "2",
+      "attachFileType": "riskFile"
+    }
+  ],
+  "actualRate": "0.01479452",
+  "actualAutoRate": "0",
+  "currentServerTime": 1502349683031,
+  "agreementTextInfoList": [
+    {
+      "text": "您已阅读并认可",
+      "isHighLight": 0,
+      "hasLink": 0
+    },
+    {
+      "text": "3",
+      "isHighLight": 0,
+      "hasLink": 1,
+      "attachFileType": "rulesFile"
+    },
+    {
+      "text": "、",
+      "isHighLight": 0,
+      "hasLink": 0
+    },
+    {
+      "text": "4",
+      "isHighLight": 0,
+      "hasLink": 1,
+      "attachFileType": "targetFile"
+    },
+    {
+      "text": "、",
+      "isHighLight": 0,
+      "hasLink": 0
+    },
+    {
+      "text": "2",
+      "isHighLight": 0,
+      "hasLink": 1,
+      "attachFileType": "riskFile"
+    },
+    {
+      "text": "。投资有风险，理财需谨慎",
+      "isHighLight": 0,
+      "hasLink": 0
+    }
+  ],
+  "exchangeAccountInfo": {
+    "isNeedOpenAccount": 0
+  },
+  "resultCode": "1000",
+  "resultMsg": "调用成功",
+  "traceNo": "mtpac10393a4173193966",
+  "displayType": "showToast",
+  "success": true,
+  "useCustMsg": false
+}

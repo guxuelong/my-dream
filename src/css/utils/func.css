@@ -1,0 +1,29 @@
+$popup-mask: 0.87;
+$theme-color: #fa6526;
+$background-color: #fff;
+$default-border-color: #d5d5d6;
+
+@define-mixin border $top, $right, $bottom, $left, $color {
+	background-image:linear-gradient(180deg, $color 0%, $color 50%, transparent 50%),
+									linear-gradient(90deg, $color 0%, $color 50%, transparent 50%),
+									linear-gradient(0deg, $color 0%, $color 50%, transparent 50%),
+									linear-gradient(90deg, $color 0%, $color 50%, transparent 50%);
+	background-size: 100% $(top)PX, $(right)PX 100%, 100% $(bottom)PX, $(left)PX 100%;
+	background-repeat: no-repeat;
+	background-position: top, right top, bottom, left top ;
+}
+@define-mixin borderTop $top, $color {
+	@mixin border $(top), 0, 0, 0, $(color);
+}
+@define-mixin borderRight $right, $color{
+	@mixin border 0, $(right), 0, 0, $(color);
+}
+@define-mixin borderBottom $bottom, $color{
+	@mixin border 0, 0, $(bottom), 0, $(color);
+}
+@define-mixin borderLeft $left, $color {
+	@mixin border 0, 0, 0, $(left), $(color);
+}
+@define-mixin borderColor $color{
+	@mixin border 1, 1, 1, 1, $(color);
+}

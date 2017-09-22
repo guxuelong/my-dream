@@ -1,0 +1,7 @@
+{
+  "resultCode": "080205",
+  "resultMsg": "无效的银行卡号，请填写正确的储蓄卡号",
+  "displayType": "showToast",
+  "success": false,
+  "useCustMsg": false
+}

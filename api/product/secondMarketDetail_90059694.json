@@ -1,0 +1,74 @@
+{
+  "productDetail": {
+    "productId": 90059694,
+    "productName": "恒耀安益2894期3号",
+    "expectedAnnualYieldRate": "7.2500",
+    "transEndTime": "2017-06-15 18:43:10",
+    "investAmount": "201742.89",
+    "inceptionDate": "2017-06-15",
+    "valueDate": "2017-06-19",
+    "dueDate": "2018-06-01",
+    "productLimit": 351,
+    "profitModeDesc": "一次性支付本金及收益",
+    "returnTo": "至账户余额",
+    "riskRank": 1,
+    "remark": "转让项目不参与营销活动",
+    "transferCondition": "持有7天后可转让",
+    "transferLimit": "剩余期限30天以下不可转让",
+    "displayRate": "7.25+8",
+    "mktPlusRateDesc":"6.8%",
+    "mktPlusRateRemark":"前300天",
+    "accountingDate":"2019-01-02",
+    "agreementList": [
+      {
+        "title": "原项目及交易说明书",
+        "attachFileType": "originalRulesFile"
+      },
+      {
+        "title": "原定向委托投资管理协议",
+        "attachFileType": "originalTargetFile"
+      },
+      {
+        "title": "风险揭示",
+        "attachFileType": "riskFile"
+      },
+      {
+        "title": "免责声明",
+        "attachFileType": "explainFile"
+      }
+    ],
+    "expectedProfit": "14065.32",
+    "transStructureType": 2,
+    "isExchangeMember": 0,
+    "specialExplanation": "",
+    "directedFinancingUnderwriter": "",
+    "isNeedExchangePopup": 0,
+    "exchangeId": -1
+  },
+  "expectedProfit": "14065.32",
+  "currentServerTime": 1497523334608,
+  "agreementURLInfoList": [
+    {
+      "title": "原项目及交易说明书",
+      "attachFileType": "originalRulesFile"
+    },
+    {
+      "title": "原定向委托投资管理协议",
+      "attachFileType": "originalTargetFile"
+    },
+    {
+      "title": "风险揭示",
+      "attachFileType": "riskFile"
+    },
+    {
+      "title": "定向委托投资资产转让交易协议",
+      "attachFileType": "transferFile"
+    }
+  ],
+  "resultCode": "1000",
+  "resultMsg": "调用成功",
+  "traceNo": "mtp0a010079415975139138",
+  "displayType": "showToast",
+  "success": true,
+  "useCustMsg": false
+}

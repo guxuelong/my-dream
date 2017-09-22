@@ -1,0 +1,11 @@
+{
+  "resultCode": "1000",
+  "resultMsg": "调用成功",
+  "data": {
+    "bindBankCardSmsToken": "11851590164393419971",
+    "success": true
+  },
+  "displayType": "showToast",
+  "success": true,
+  "useCustMsg": false
+}

@@ -1,0 +1,24 @@
+{
+  "inviteActivityURL": "https://promotion.hdfax.com/snow/invitation",
+  "assetsHomeInfo": {
+    "totalAssets": "22000.00",
+    "totalBalance": "233.00",
+    "currentAssets": "333.00",
+    "fixedAssets": "22000.00",
+    "fundAssets": "33.00",
+    "currentTotalProfit": "44.00",
+    "fixedTotalProfit": "4822.83",
+    "fundTotalProfit": "11.00",
+    "estimatedFixedProfit": "1289.93",
+    "zeroCurrentAssetsHint": "恒存金 灵活理财",
+    "zeroFixedAssetsHint": "多种产品 安全稳定",
+    "zeroFundAssetsHint": "申购费率 全场4折"
+  },
+  "useableCouponCount": "5",
+  "resultCode": "1000",
+  "resultMsg": "调用成功",
+  "traceNo": "mtp0a010178415497171768",
+  "displayType": "showToast",
+  "success": true,
+  "useCustMsg": false
+}

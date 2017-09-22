@@ -1,0 +1,148 @@
+{
+  "resultCode": "1000",
+  "resultMsg": "调用成功",
+  "data": {
+    "bindCardIntroURL": "https://static.hdfax.com/app/protocol/file/bankcard/bindCardIntro.html",
+    "user": {
+      "realName": "顾学龙",
+      "hasPaymentPwd": 1,
+      "isRealName": 1,
+      "isBindBankCard": 0
+    },
+    "success": true,
+    "bindCardProtocol": "https://static.hdfax.com/document/1490163310799.html",
+    "banks": [
+      {
+        "bankNo": "01040000",
+        "bankName": "中国银行",
+        "bankCode": "BOC",
+        "paymentMaxAmount": "5万 单日限额30万",
+        "logoUrl": "https://static.hdfax.com/app/bank/logo/BOC120x120.png",
+        "isMain": 1
+      },
+      {
+        "bankNo": "01030000",
+        "bankName": "农业银行",
+        "bankCode": "ABC",
+        "paymentMaxAmount": "20万 单日限额20万",
+        "logoUrl": "https://static.hdfax.com//app/bank/logo/ABC120x120.png",
+        "isMain": 1
+      },
+      {
+        "bankNo": "01020000",
+        "bankName": "工商银行",
+        "bankCode": "ICBC",
+        "paymentMaxAmount": "20万 单日限额20万",
+        "logoUrl": "https://static.hdfax.com//app/bank/logo/ICBC120x120.png",
+        "isMain": 1
+      },
+      {
+        "bankNo": "01050000",
+        "bankName": "建设银行",
+        "bankCode": "CCB",
+        "paymentMaxAmount": "50万 单日限额200万",
+        "logoUrl": "https://static.hdfax.com//app/bank/logo/CBC120x120.png",
+        "isMain": 1
+      },
+      {
+        "bankNo": "03010000",
+        "bankName": "交通银行",
+        "bankCode": "COMM",
+        "paymentMaxAmount": "5万 单日限额30万",
+        "logoUrl": "https://static.hdfax.com/app/bank/logo/COMM120x120.png",
+        "isMain": 1
+      },
+      {
+        "bankNo": "03080000",
+        "bankName": "招商银行",
+        "bankCode": "CMB",
+        "paymentMaxAmount": "5万 单日限额5万",
+        "logoUrl": "https://static.hdfax.com/app/bank/logo/CMB120x120.png",
+        "isMain": 1
+      },
+      {
+        "bankNo": "03180000",
+        "bankName": "平安银行",
+        "bankCode": "SZPAB",
+        "paymentMaxAmount": "100万 单日限额500万",
+        "logoUrl": "https://static.hdfax.com/app/bank/logo/PAB120x120.png",
+        "isMain": 1
+      },
+      {
+        "bankNo": "03100000",
+        "bankName": "浦发银行",
+        "bankCode": "SPDB",
+        "paymentMaxAmount": "20万 单日限额20万",
+        "logoUrl": "https://static.hdfax.com/app/bank/logo/SPDB120x120.png",
+        "isMain": 1
+      },
+      {
+        "bankNo": "03050000",
+        "bankName": "民生银行",
+        "bankCode": "CMBC",
+        "paymentMaxAmount": "30万 单日限额100万",
+        "logoUrl": "https://static.hdfax.com/app/bank/logo/CMBC120x120.png",
+        "isMain": 1
+      },
+      {
+        "bankNo": "03090000",
+        "bankName": "兴业银行",
+        "bankCode": "CIB",
+        "paymentMaxAmount": "5万 单日限额30万",
+        "logoUrl": "https://static.hdfax.com/app/bank/logo/CIB120x120.png",
+        "isMain": 1
+      },
+      {
+        "bankNo": "03020000",
+        "bankName": "中信银行",
+        "bankCode": "CITIC",
+        "paymentMaxAmount": "1万 单日限额1万 单月限额10001",
+        "logoUrl": "https://static.hdfax.com/app/bank/logo/CITIC120x120.png",
+        "isMain": 1
+      },
+      {
+        "bankNo": "03060000",
+        "bankName": "广发银行",
+        "bankCode": "GDB",
+        "paymentMaxAmount": "500万",
+        "logoUrl": "https://static.hdfax.com/app/bank/logo/GDB120x120.png",
+        "isMain": 1
+      },
+      {
+        "bankNo": "03030000",
+        "bankName": "光大银行",
+        "bankCode": "CEB",
+        "paymentMaxAmount": "500万",
+        "logoUrl": "https://static.hdfax.com/app/bank/logo/CEB120x120.png",
+        "isMain": 1
+      },
+      {
+        "bankNo": "03040000",
+        "bankName": "华夏银行",
+        "bankCode": "HXB",
+        "paymentMaxAmount": "10万 单日限额100万",
+        "logoUrl": "https://static.hdfax.com/app/bank/logo/HXB120x120.png",
+        "isMain": 1
+      },
+      {
+        "bankNo": "01000000",
+        "bankName": "邮政储蓄银行",
+        "bankCode": "PSBC",
+        "paymentMaxAmount": "5万 单日限额30万",
+        "logoUrl": "https://static.hdfax.com/app/bank/logo/PSBC120x120.png",
+        "isMain": 1
+      },
+      {
+        "bankNo": "04031000",
+        "bankName": "北京银行",
+        "bankCode": "BCCB",
+        "paymentMaxAmount": "5000 单日限额5000 单月限额100万",
+        "logoUrl": "https://static.hdfax.com/app/bank/logo/BCCB120x120.png",
+        "isMain": 1
+      }
+    ]
+  },
+  "displayType": "showToast",
+  "success": true,
+  "useCustMsg": false
+}
